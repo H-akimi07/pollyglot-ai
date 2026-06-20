@@ -1,4 +1,5 @@
 import { useState } from "react";
+import logo from ".././src/assets/polluglot.png";
 
 function TranslatorForm() {
   const [language, setLanguage] = useState("French");
@@ -88,7 +89,7 @@ ${text}
     <div className="translator-card">
       <div className="logo-section">
         <div className="banner">
-          <img src=".././src/assets/pollyglot.png" alt="PollyGlot Logo" />
+          <img src={logo} alt="PollyGlot Logo" />
           <div className="banner-text">
             <h1>PollyGlot</h1>
             <p>Perfect Translation Every Time</p>

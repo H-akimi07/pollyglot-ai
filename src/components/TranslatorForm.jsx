@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../assets/pollyglot.png";
+import logo from "/src/assets/pollyglot.png";
 
 function TranslatorForm() {
   const [language, setLanguage] = useState("French");

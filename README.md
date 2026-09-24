@@ -33,34 +33,12 @@ PollyGlot currently supports:
 ## 🛠️ Technologies Used
 
 - React
-- JavaScript**
+- JavaScript
 - HTML5
 - CSS3
 - Vite
 - Translation API
 
-
-## 📂 Project Structure
-
-PollyGlot/
-│
-├── public/
-│
-├── src/
-│   ├── assets/
-│   │
-│   ├── components/
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── ...
-│
-├── .gitignore
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-└── README.md
 
 # React + Vite
 

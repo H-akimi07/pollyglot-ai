@@ -1,7 +1,69 @@
+# 🌍 PollyGlot
 
+PollyGlot is a modern language translation web application that allows users to translate text between multiple languages through a simple and user-friendly interface.
+
+The project was built to practice working with APIs, React, user input, asynchronous requests, and modern frontend development.
 
 # Demo Link
 [https://pollyglot-ai-translator-six.vercel.app/]
+
+## ✨ Features
+
+- 🌍 Translate text between multiple languages
+- 📝 Simple and intuitive text input
+- 🔄 Select source and target languages
+- ⚡ Fast translation results
+- 📱 Responsive design for desktop and mobile
+- 🎨 Clean and modern user interface
+- ⚠️ Error handling for failed translation requests
+- 🔄 Easy language switching
+- 🧹 Clear/reset translation input
+
+---
+
+## 🌐 Supported Languages
+
+PollyGlot currently supports:
+
+- 🇺🇸 English
+- 🇪🇸 Spanish
+- 🇫🇷 French
+
+> More languages can be added in future versions.
+
+---
+
+## 🛠️ Technologies Used
+
+- **React**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Vite**
+- **Translation API**
+
+
+## 📂 Project Structure
+
+PollyGlot/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   │
+│   ├── components/
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── ...
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
 
 # React + Vite
 

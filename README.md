@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Demo Link
 [https://pollyglot-ai-translator-six.vercel.app/]

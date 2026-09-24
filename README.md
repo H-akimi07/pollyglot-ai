@@ -20,27 +20,24 @@ The project was built to practice working with APIs, React, user input, asynchro
 - 🧹 Clear/reset translation input
 
 ---
-
 ## 🌐 Supported Languages
 
 PollyGlot currently supports:
 
-- 🇺🇸 English
-- 🇪🇸 Spanish
 - 🇫🇷 French
+- 🇪🇸 Spanish
+- 🇯🇵 Japanese
 
 > More languages can be added in future versions.
 
----
-
 ## 🛠️ Technologies Used
 
-- **React**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **Vite**
-- **Translation API**
+- React
+- JavaScript**
+- HTML5
+- CSS3
+- Vite
+- Translation API
 
 
 ## 📂 Project Structure
